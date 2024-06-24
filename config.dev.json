@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "61555673280258",
-    "password": "ab12cd3é",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086565691009",
+    "100095251958169",
     ""
   ],
   "whiteListMode": {
@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Light_X_Rafi",
-  "AGE": "15",
-  "GENDER": "MALE",
-  "nickNameBot": "Lucyna",
-  "FACEBOOK": "https://www.facebook.com/100086565691009",
+  "OWNER": "",
+  "AGE": "",
+  "GENDER": "",
+  "nickNameBot": "",
+  "FACEBOOK": "",
   "prefix": "/",
   "database": {
     "type": "sqlite",
